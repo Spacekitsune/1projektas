@@ -1,0 +1,1644 @@
+# Translation of Plugins - Lingotek Translation - Development (trunk) in Russian
+# This file is distributed under the same license as the Plugins - Lingotek Translation - Development (trunk) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2022-01-21 19:13:48+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n % 10 == 1 && n % 100 != 11) ? 0 : ((n % 10 >= 2 && n % 10 <= 4 && (n % 100 < 12 || n % 100 > 14)) ? 1 : 2);\n"
+"X-Generator: GlotPress/4.0.0-alpha.1\n"
+"Language: ru\n"
+"Project-Id-Version: Plugins - Lingotek Translation - Development (trunk)\n"
+
+#: admin/chip-target.php:100
+msgid "Check translation status"
+msgstr "Проверка статуса перевода"
+
+#: admin/chip-source.php:41 admin/chip-source.php:94
+msgid "Check source status"
+msgstr "Проверка статуса источника"
+
+#. translators: %s: The lingotek locale.
+#: admin/chip-target.php:53
+msgid "Check translation status for %s"
+msgstr "Проверка статуса перевода для %s"
+
+#: admin/tutorial/content.php:112
+msgid "Document Archived"
+msgstr "Архивированный документ"
+
+#: admin/actions.php:232
+msgid "Document has been archived"
+msgstr "Документ был архивирован"
+
+#: admin/chip-target.php:110 admin/chip-target.php:116
+msgid "Download translation"
+msgstr "Скачать перевод"
+
+#. translators: %s: The lingotek locale.
+#: admin/chip-target.php:58
+msgid "Download translation for %s"
+msgstr "Скачать перевод для %s"
+
+#: lingotek.php:350
+msgid "Lingotek New UI"
+msgstr "Новый пользовательский интерфейс Lingotek"
+
+#: admin/filters-columns.php:67
+msgid "Lingotek source"
+msgstr "Источник Lingotek"
+
+#: admin/filters-columns.php:68
+msgid "Lingotek translations"
+msgstr "Переводы Lingotek"
+
+#: admin/chip-target.php:62 admin/chip-target.php:134
+msgid "Open in Lingotek workbench"
+msgstr "Открыть в рабочем месте Lingotek"
+
+#: admin/chip-target.php:127
+msgid "Re-Download translation"
+msgstr "Перезагрузить перевод"
+
+#: admin/chip-source.php:45 admin/chip-source.php:100
+msgid "Re-Upload"
+msgstr "Повторно загрузить"
+
+#: admin/chip-target.php:94
+msgid "Request translation"
+msgstr "Запрос на перевод"
+
+#. translators: %s: The lingotek locale.
+#: admin/chip-target.php:30
+msgid "Request translation to %s"
+msgstr "Запрос перевода на %s"
+
+#: admin/tutorial/content.php:113
+msgid "The document is archived. The document can be translated again."
+msgstr "Документ находится в архиве. Документ можно снова перевести."
+
+#: admin/tutorial/content.php:118
+msgid "The translation is deleted. The source can be translated into this language again."
+msgstr "Перевод удален. Исходник можно снова перевести на этот язык."
+
+#: admin/chip-source.php:37 admin/chip-source.php:56
+msgid "This document has been archived. Reupload the source for translation."
+msgstr "Этот документ был помещен в архив. Перезагрузите источник для перевода."
+
+#: admin/chip-source.php:33 admin/chip-source.php:53
+msgid "This document has been deleted. Reupload the source for translation."
+msgstr "Этот документ был удален. Перезагрузите источник для перевода."
+
+#: admin/chip-target.php:45
+msgid "This target has been archived and the translation does exist."
+msgstr "Этот целевой объект был архивирован, и перевод действительно существует."
+
+#: admin/chip-target.php:47
+msgid "This target has been archived and the translation does not exist."
+msgstr "Эта цель была архивирована, и перевод не существует."
+
+#: admin/chip-target.php:36
+msgid "This target has been deleted and the translation does exist."
+msgstr "Эта цель была удалена, а перевод существует."
+
+#: admin/chip-target.php:38
+msgid "This target has been deleted and the translation does not exist."
+msgstr "Эта цель была удалена, и перевод не существует."
+
+#: admin/actions.php:227
+msgid "Translation has been deleted"
+msgstr "Перевод был удален"
+
+#: admin/chip-source.php:29 admin/chip-source.php:59 admin/chip-source.php:88
+#: admin/chip-source.php:109
+msgid "Upload"
+msgstr "Загрузить"
+
+#: admin/chip-source.php:80 admin/chip-target.php:86
+msgid "View"
+msgstr "Просмотр"
+
+#: admin/chip-source.php:80 admin/chip-target.php:86
+msgid "View translation"
+msgstr "Просмотр перевода"
+
+#: admin/post-actions.php:123
+msgid "Lingotek Professional Translation is now available."
+msgstr "Lingotek Professional Translation теперь доступен."
+
+#: admin/post-actions.php:122
+msgid "NEW FEATURE!"
+msgstr "НОВАЯ ВОЗМОЖНОСТЬ!"
+
+#: admin/manage/view-edit-profile.php:301
+msgid "Select All"
+msgstr "Выбрать все"
+
+#: admin/settings/view-preferences.php:47
+msgid "Enable Lingotek Debug Logs"
+msgstr "Включить журналы отладки Lingotek"
+
+#: admin/settings/view-preferences.php:50
+msgid "Enable Lingotek Logs"
+msgstr "Включить журналы Lingotek"
+
+#: admin/settings/view-preferences.php:48
+msgid "Enables Lingotek's logs for debugging purposes."
+msgstr "Включает журналы Lingotek для целей отладки."
+
+#: lingotek.php:379
+msgid "Upgrades for the lingotek translation module have completed."
+msgstr "Завершены обновления модуля перевода lingotek."
+
+#: admin/settings/view-utilities.php:70
+msgid "Delete all unfinished documents from WordPress and cancel corresponding documents from your Lingotek Community."
+msgstr "Удалите все незавершенные документы из WordPress и отмените соответствующие документы из вашего сообщества Lingotek."
+
+#: admin/actions.php:85
+msgid "Translation will be deleted from WordPress. The associated translation in the TMS will be cancelled. Are you sure?"
+msgstr "Перевод будет удален из WordPress. Связанный с этим перевод в TMS будет отменен. Уверен?"
+
+#: admin/actions.php:83
+msgid "Content will be deleted from WordPress. The associated content in the TMS will be cancelled. Are you sure?"
+msgstr "Содержимое будет удалено из WordPress. Связанный контент в TMS будет отменен. Уверен?"
+
+#: admin/actions.php:166
+msgid "Upload Failed. Click to re-upload"
+msgstr "Загрузка не удалось. Нажмите, чтобы повторно загрузить"
+
+#: admin/actions.php:120
+msgid "Cancel the translations of this item from Lingotek TMS"
+msgstr "Отмена переводов этого элемента из Lingotek TMS"
+
+#: admin/post-actions.php:382
+msgid "Delete this content from your Lingotek community to change the Translation Profile"
+msgstr "Удалите этот контент из сообщества Lingotek, чтобы изменить профиль перевода"
+
+#: admin/actions.php:222
+msgid "Translation has been cancelled"
+msgstr "Перевод отменен"
+
+#: admin/actions.php:141
+msgid "Delete this translation from Lingotek TMS"
+msgstr "Удалить этот перевод из Lingotek TMS"
+
+#: admin/actions.php:140
+msgid "Deleting translation"
+msgstr "Удаление перевода"
+
+#: admin/actions.php:134
+msgid "Cancel this translation from Lingotek TMS"
+msgstr "Отмена этого перевода от Lingotek TMS"
+
+#: admin/actions.php:132 admin/chip-target.php:104 admin/chip-target.php:120
+msgid "Cancel translation"
+msgstr "Отмена перевода"
+
+#: admin/actions.php:126
+msgid "Deleting translations..."
+msgstr "Удаление переводов..."
+
+#: admin/actions.php:125
+msgid "Delete translations"
+msgstr "Удалить переводы"
+
+#: admin/actions.php:118
+msgid "Cancel translations"
+msgstr "Отмена переводов"
+
+#: admin/actions.php:86
+msgid "You are about to cancel this translation in your Lingotek community. Are you sure?"
+msgstr "Вы вот-вот отмените этот перевод в своем сообществе Lingotek. Уверен?"
+
+#: admin/actions.php:84
+msgid "You are about to cancel existing translations in your Lingotek community. Are you sure?"
+msgstr "Вы вот-вот отмените существующие переводы в сообществе Lingotek. Уверен?"
+
+#: admin/tutorial/content.php:108
+msgid "The translation is cancelled. The source cannot be translated into this language again."
+msgstr "Перевод отменяется. Источник не может быть переведен на этот язык снова."
+
+#: admin/tutorial/content.php:107
+msgid "Translation Cancelled"
+msgstr "Перевод отменен"
+
+#: admin/settings/view-preferences.php:23
+msgid "Sync trashed content"
+msgstr "Синхронизация разгромленного контента"
+
+#: admin/settings/view-preferences.php:21
+msgid "When enabled, sending source or target content to the trash will also send all linked content to the trash. "
+msgstr "При включении, отправка источника или целевого содержимого в мусор будет также отправить все связанные содержание мусора. "
+
+#: admin/settings/view-preferences.php:20
+msgid "Trashed Content"
+msgstr "Корзина Содержание"
+
+#: admin/settings/view-utilities.php:75
+msgid "You are about to cancel all of your content from your Lingotek community. Are you sure ?"
+msgstr "Вы вот-вот отмените весь контент из сообщества Lingotek. Уверен?"
+
+#: admin/settings/view-utilities.php:73
+msgid "You are about to delete all your content from your Lingotek community. Are you sure ?"
+msgstr "Вы вот-вот удалите весь контент из сообщества Lingotek. Уверен?"
+
+#: admin/settings/view-utilities.php:64
+msgid "Deletion"
+msgstr "Исключение"
+
+#: admin/settings/view-utilities.php:60
+msgid "Cancel any existing content from your Lingotek community"
+msgstr "Отмена любого существующего контента из сообщества Lingotek"
+
+#: admin/settings/view-utilities.php:54
+msgid "Cancellation"
+msgstr "Отмена"
+
+#: admin/settings/view-utilities.php:12
+msgid "Deleting content..."
+msgstr "Удаление содержимого..."
+
+#: admin/settings/view-utilities.php:20
+msgid "Cancelling content..."
+msgstr "Выполняется отмена контента..."
+
+#: admin/actions.php:133
+msgid "Cancelling translation"
+msgstr "Выполняется отмена перевода"
+
+#: admin/actions.php:119
+msgid "Cancelling translations..."
+msgstr "Выполняется отмена переводов..."
+
+#: admin/actions.php:139
+msgid "Delete translation"
+msgstr "Удалить перевод"
+
+#: admin/manage/view-edit-profile.php:331
+msgid "Document Metadata"
+msgstr "Метаданные документа"
+
+#: admin/actions.php:192
+msgid "Interim Translation Downloaded"
+msgstr "Промежуточный перевод Загружено"
+
+#: admin/settings/view-preferences.php:36
+msgid "Automatic Status Update Interval"
+msgstr "Интервал автоматического обновления статуса"
+
+#: admin/settings/view-preferences.php:37
+msgid "Changes the rate at which content statuses update automatically."
+msgstr "Изменяет частоту обновления статусов содержимого."
+
+#: admin/tutorial/features.php:17 lingotek.php:988
+msgid "Learn More"
+msgstr "Узнать больше"
+
+#: lingotek.php:1001
+msgid "New Feature"
+msgstr "Новая возможность"
+
+#: lingotek.php:981
+msgid "Lingotek Professional Translation is now available!"
+msgstr "Профессиональные переводы Lingotek теперь доступны!"
+
+#: admin/tutorial/content.php:150
+msgid "How To Use"
+msgstr "Как использовать"
+
+#: admin/tutorial/content.php:154
+msgid "Translation > Settings > Defaults"
+msgstr "Перевод > Настройки > По умолчанию"
+
+#: admin/tutorial/content.php:153
+msgid "Translation > Manage > Translation Profiles"
+msgstr "Перевод > Управление > Профили перевода"
+
+#: admin/tutorial/content.php:167
+msgid "If you do have a payment method enabled you will see the following dialog box that will allow you to purchase your professional translations."
+msgstr "Если у вас включен метод оплаты, вы увидите диалоговое окно, которое позволит вам оплатить профессиональные переводы."
+
+#: admin/tutorial/content.php:173
+msgid "You can set up or edit your payment method from the Translation > Settings > Account page."
+msgstr "Вы можете настроить или отредактировать свой способ оплаты со страницы > настройки > учетной записи."
+
+#: admin/tutorial/content.php:171
+msgid "The status of your translation will change to the Translator icon while your document is being processed and translated."
+msgstr "Статус вашего перевода изменится на значок Переводчика во время обработки и перевода документа."
+
+#: admin/tutorial/content.php:169
+msgid "After purchasing one or more professional translations you will see a success message and will receive a payment confirmation email."
+msgstr "После покупки одного или нескольких профессиональных переводов вы увидите сообщение об успехе и получите письмо с подтверждением оплаты."
+
+#: admin/tutorial/content.php:165
+msgid "When requesting a document for translation with the Lingotek Professional Translation workflow enabled you will see one of two dialog boxes. If you don't have a payment method set up you will see the following dialog box allowing you to view translation quotes on your selected documents."
+msgstr "При запросе документа для перевода с включенным рабочим процессом Lingotek Professional Translation вы увидите одно из двух диалоговых коробок. Если у вас нет настроенного способа оплаты, вы увидите следующее диалоговое окно, позволяющее просматривать котировки переводов на выбранных документах."
+
+#: admin/tutorial/content.php:163
+msgid "After the workflow has been set you can access the professional translation request menu by clicking on the orange plus icon located on any page that contains your posts."
+msgstr "После того, как рабочий процесс был установлен, вы можете получить доступ к меню профессионального запроса перевода, нажав на оранжевый плюс значок, расположенный на любой странице, которая содержит ваши сообщения."
+
+#: admin/tutorial/content.php:161
+msgid "From the Payment Portal you will enter your payment information. Then you will be redirected back to your WordPress site."
+msgstr "С платежного портала вы введите платежную информацию. После этого вы будете перенаправлены назад к вашему месту WordPress."
+
+#: admin/tutorial/content.php:159
+msgid "Clicking the ADD PAYMENT METHOD button will redirect you to the Lingotek Secure Payment Portal."
+msgstr "Нажатие кнопки ADD PAYMENT METHOD перенаправит вас на портал безопасных платежей Lingotek."
+
+#: admin/tutorial/content.php:157
+msgid "After selecting this workflow a dialog box will pop up prompting you to enter a payment method. Clicking LATER will close the dialog box and allow you to come back later to add a payment method."
+msgstr "После выбора этого рабочего процесса всплывает диалоговое окно, побуждая вас ввести способ оплаты. Нажатие LATER закроет диалоговое окно и позволит вам вернуться позже, чтобы добавить способ оплаты."
+
+#: admin/tutorial/content.php:151
+msgid "Use the \"Lingotek Professional Translation\" workflow to enable this feature.  This can be done from any of the following area in the Lingotek plugin settings:"
+msgstr "Для включения этой функции используйте рабочий процесс «Lingotek Professional Translation».  Это можно сделать из любой из следующих областей в настройках плагина Lingotek:"
+
+#: admin/tutorial/content.php:149
+msgid "Lingotek Professional Translation is a workflow that allows you to connect with audiences around the globe using Lingotek's network of 5000+ professional, in-country, translators. Professional Translation ensures that your audiences will feel the sentiment of your content."
+msgstr "Lingotek Professional Translation – это рабочий процесс, который позволяет общаться с аудиторией по всему миру, используя сеть Lingotek, включаемую в 5000 профессиональных переводчиков. Профессиональный перевод гарантирует, что ваша аудитория почувствует настроение вашего контента."
+
+#: admin/tutorial/content.php:148
+msgid "What Is Lingotek Professional Translation?"
+msgstr "Что такое Профессиональный перевод Lingotek?"
+
+#: admin/tutorial/content.php:128
+msgid "Lingotek Professional Translation Overview"
+msgstr "Обзор Профессионального перевода Lingotek"
+
+#: admin/tutorial/content.php:29
+msgid "Lingotek Translation General Overview"
+msgstr "Основной обзор Перевода Lingotek"
+
+#: admin/tutorial/content.php:26
+msgid "Lingotek works in conjunction with the Polylang plugin (the plumbing to make WordPress multilingual ready) simplifying the process of creating and maintaining your multilingual website. You write posts, pages, and create categories and post tags as usual, and then define the language for each of them."
+msgstr "Lingotek работает совместно с плагином Polylang (сантехника, чтобы сделать WordPress многоязычным готовым) упрощая процесс создания и поддержания вашего многоязычного веб-сайта. Вы пишете сообщения, страницы и создаете категории и публикуете теги, как обычно, а затем определяете язык для каждого из них."
+
+#: admin/tutorial/content.php:22
+msgid "What Does The Lingotek Translation Plugin Do?"
+msgstr "Что делает плагин перевода Lingotek?"
+
+#: admin/workflows/professional-translation-workflow.php:173
+msgid "Confirm Request Translation"
+msgstr "Подтвердить запрос на перевод"
+
+#: admin/workflows/professional-translation-workflow.php:131
+msgid "Confirm Document Upload"
+msgstr "Подтвердить загрузку документа"
+
+#: admin/post-actions.php:342
+msgid "You must enable translation for this content type in Lingotek's Content Type Configuration to enable Translation Profiles."
+msgstr "Вам нужно включить перевод для этого типа содержимого в Настройках типов содержимого Lingotek для включения Профилей перевода."
+
+#: admin/tutorial/content.php:123
+msgid "You have made changes to source content. The source must be sent to Lingotek again for additional translation."
+msgstr "Вы внесли изменения в оригинальное содержимое. Оригинал должен быть отправлен в Lingotek снова для дополнительного перевода."
+
+#: admin/tutorial/content.php:122
+msgid "Out of Sync"
+msgstr "Вне синхронизации"
+
+#: admin/settings/view-preferences.php:31
+msgid "Enable importing from Lingotek Content Cloud. (beta)"
+msgstr "Включение импорта из Облачного сервиса Lingotek. (бета)"
+
+#: admin/import/view-settings.php:34
+msgid "Post"
+msgstr "Запись"
+
+#: admin/import/view-settings.php:33
+msgid "Page"
+msgstr "Страница"
+
+#: admin/import/import-table.php:268
+msgid "ID"
+msgstr "ID"
+
+#: admin/import/import-table.php:547
+msgid "There is no content to display"
+msgstr "Нет содержимого для показа"
+
+#: admin/import/view-settings.php:30
+msgid "Format"
+msgstr "Формат"
+
+#: admin/import/import-table.php:267
+msgid "Project Name"
+msgstr "Имя проекта"
+
+#: admin/import/import-table.php:266
+msgid "Upload Date"
+msgstr "Дата загрузки"
+
+#: admin/import/view-content.php:109
+msgid "No files were selected to import. Please check the desired documents to import."
+msgstr "Не выбраны файлы для импорта. Пожалуйста, выберите документы для импорта."
+
+#: admin/import/view-content.php:114
+msgid "There was an error importing your file. We currently only support WordPress, Drupal, HTML, and Text files."
+msgid_plural "There was an error importing your files. We currently only support WordPress, Drupal, HTML, and Text files."
+msgstr[0] "Произошла ошибка при загрузке вашего файла. В настоящее время мы поддерживаем только WordPress, Drupal, HTML и текстовые файлы."
+msgstr[1] "Произошла ошибка при загрузке ваших файлов. В настоящее время мы поддерживаем только WordPress, Drupal, HTML и текстовые файлы."
+msgstr[2] "Произошла ошибка при загрузке ваших файлов. В настоящее время мы поддерживаем только WordPress, Drupal, HTML и текстовые файлы."
+
+#: admin/import/view-content.php:92
+msgid "The following document did not import: %s"
+msgid_plural "The following documents did not import: %s"
+msgstr[0] "Этот документ не был загружен: %s"
+msgstr[1] "Эти документы не были загружены: %s"
+msgstr[2] "Эти документы не были загружены: %s"
+
+#: admin/import/view-settings.php:20
+msgid "The post status for newly imported documents"
+msgstr "Статус записи для вновь загруженных документов"
+
+#: admin/import/import-table.php:265
+msgid "Locale"
+msgstr "Локализация"
+
+#: admin/import/import-table.php:264
+msgid "Extension"
+msgstr "Расширение"
+
+#: admin/import/FormatConverter.php:200
+msgid "Failed to load XML"
+msgstr "Ошибка при загрузке XML"
+
+#: admin/import/FormatConverter.php:105 admin/import/FormatConverter.php:199
+msgid "No title found"
+msgstr "Название не найдено"
+
+#: admin/admin.php:277 admin/import.php:11
+#: admin/settings/view-preferences.php:28
+msgid "Import"
+msgstr "Импорт"
+
+#: admin/import/FormatConverter.php:100 admin/import/FormatConverter.php:194
+msgid ""
+"We could not parse the data from this document.\n"
+"        Are you sure that it is in a recognizable format, such as JSON, XML, HTML, or plain text?"
+msgstr ""
+"Мы не нашли данных в этом документе.\n"
+"        Вы уверены, что он в распознаваемом формате, таком как JSON, XML, HTML или обычный текст?"
+
+#: admin/settings/view-preferences.php:29
+msgid "When checked, an \"Import\" submenu will appear."
+msgstr "При проверке появится подмена \"Импорт\"."
+
+#: admin/import.php:12
+msgid "Import your posts from another WordPress blog through Lingotek"
+msgstr "Импорт ваших сообщений из другого блога WordPress через Lingotek"
+
+#: admin/import/view-settings.php:31
+msgid "In which format would you like your imports to be?"
+msgstr "В каком формате вы хотели бы, чтобы ваш импорт был?"
+
+#: admin/import/view-settings.php:19
+msgid "Import documents as"
+msgstr "Импортировать документ как"
+
+#: admin/import/view-content.php:77
+msgid "Successfully imported %1$s of %2$s post"
+msgid_plural "Successfully imported %1$s of %2$s posts"
+msgstr[0] "Успешно импортированный %1$s %2$s почты"
+msgstr[1] "Успешно импортированно %1$s %2$s почты"
+msgstr[2] "Успешно импортированно %1$s %2$s почты"
+
+#: admin/import/view-content.php:75
+msgid "Successfully imported %1$s of %2$s page"
+msgid_plural "Successfully imported %1$s of %2$s pages"
+msgstr[0] "Успешно импортированный %1$s %2$s страницы"
+msgstr[1] "Успешно импортированно %1$s %2$s страницы"
+msgstr[2] "Успешно импортированно %1$s %2$s страницы"
+
+#: admin/admin.php:277
+msgid "Lingotek Import"
+msgstr "Lingotek Импорт"
+
+#: admin/view-tutorial.php:6
+msgid "FAQ"
+msgstr "ЧАВО"
+
+#: admin/settings/view-account.php:31
+msgid "Yes"
+msgstr "Да"
+
+#: include/group-term.php:45
+msgid "Name"
+msgstr "Имя"
+
+#: admin/profiles-table.php:71
+msgid "Edit"
+msgstr "Редактировать"
+
+#: lingotek.php:338 lingotek.php:956 lingotek.php:985
+msgid "Close"
+msgstr "Закрыть"
+
+#: admin/actions.php:202
+msgid "Current"
+msgstr "Текущий"
+
+#: admin/settings/view-utilities.php:38 admin/view-network.php:160
+msgid "Language"
+msgstr "Язык"
+
+#: admin/admin.php:271 admin/view-manage.php:2
+msgid "Manage"
+msgstr "Управлять"
+
+#: admin/admin.php:250 admin/admin.php:272 admin/import.php:18
+#: admin/import/view-settings.php:66 admin/settings.php:2
+msgid "Settings"
+msgstr "Настройки"
+
+#: include/group-post.php:53 include/group-term.php:48
+msgid "Description"
+msgstr "Описание"
+
+#: admin/import/view-settings.php:104 admin/manage/view-content.php:96
+#: admin/manage/view-edit-profile.php:352 admin/settings/view-account.php:132
+#: admin/settings/view-defaults.php:155 admin/settings/view-preferences.php:141
+msgid "Save Changes"
+msgstr "Сохранить изменения"
+
+#: admin/import/import-table.php:263 include/group-post.php:50
+#: include/group-post.php:55
+msgid "Title"
+msgstr "Название"
+
+#: admin/profiles-table.php:97
+msgid "Usage"
+msgstr "Применение"
+
+#: admin/view-manage.php:9
+msgid "Custom Fields"
+msgstr "Произвольные поля"
+
+#: admin/view-tutorial.php:7
+msgid "Credits"
+msgstr "Благодарности"
+
+#: include/group-post.php:58
+msgid "Excerpt"
+msgstr "Выдержка"
+
+#: admin/view-tutorial.php:20
+msgid "Version %s"
+msgstr "Версия %s"
+
+#: admin/admin.php:384 admin/admin.php:389 admin/filters-post.php:126
+#: admin/post-actions.php:340 lingotek.php:1023
+msgid "Manual"
+msgstr "Ручная"
+
+#. Author URI of the plugin
+msgid "http://lingotek.com"
+msgstr "http://lingotek.com"
+
+#. Author of the plugin
+msgid "Lingotek and Frédéric Demarle"
+msgstr "Lingotek и Frédéric Demarle"
+
+#. Plugin URI of the plugin
+msgid "http://lingotek.com/wordpress#utm_source=wpadmin&utm_medium=plugin&utm_campaign=wplingotektranslationplugin"
+msgstr "http://lingotek.com/wordpress#utm_source=wpadmin&utm_medium=plugin&utm_campaign=wplingotektranslationplugin"
+
+#: lingotek.php:972
+msgid "Congratulations!"
+msgstr "Поздравляем!"
+
+#: lingotek.php:959
+msgid "Activate Account"
+msgstr "Активировать учетную запись"
+
+#: lingotek.php:952
+msgid "You’ve just installed Lingotek Translation! Click below to activate your account and automatically translate your website for free!"
+msgstr "Вы установили Переводы Lingotek! Нажмите ниже для активации вашей учетной записи и автоматического перевода вашего сайта бесплатно!"
+
+#. Description of the plugin
+msgid "Lingotek offers convenient cloud-based localization and translation."
+msgstr "Lingotek предлагает удобный перевод на основе облачных технологий."
+
+#: include/dashboard.php:126
+msgid "The language can only be removed when no existing content is using it.  If you would like to remove this language from the site, then first remove any content assigned to this language."
+msgstr "Язык может быть удален только в случае, если нет контента, использующего этот язык. Если вы хотите удалить язык, удалите контент, использующий его."
+
+#: lingotek.php:770
+msgid "Install Polylang"
+msgstr "Установить Polylang"
+
+#: lingotek.php:786
+msgid "Lingotek Translation requires Polylang %s to work. Please upgrade Polylang."
+msgstr "Переводам Lingotek для работы требуется Polylang %s. Пожалуйста, обновите Polylang."
+
+#: include/dashboard.php:94
+msgid "You must keep at least one language."
+msgstr "Необходимо выбрать как минимум один язык."
+
+#: admin/view-tutorial.php:15
+msgid "Welcome to Lingotek"
+msgstr "Добро пожаловать в Lingotek"
+
+#: admin/view-network.php:162
+msgid "Set <i>default language</i> as the language for all existing content that has not been assigned a language."
+msgstr "Выберите <i>язык по умолчанию</i> как язык для всего существующего содержимого с неуказанным языком."
+
+#: include/api.php:825 include/api.php:890 include/api.php:1094
+#: include/api.php:1145
+msgid "Make sure you have internet connectivity"
+msgstr "Проверьте подключение к интернету"
+
+#: admin/view-tutorial.php:17
+msgid "Thank you for updating! Lingotek offers convenient cloud-based localization and translation."
+msgstr "Спасибо за обновление! Lingotek предлагает удобные переводы, основанные на облачных технологиях."
+
+#: admin/view-network.php:154
+msgid "New Project"
+msgstr "Новый проект"
+
+#: admin/view-network.php:156
+msgid "Create a new project using the name of the selected site (Recommended for a newly created site)"
+msgstr "Создать новый проект, используя имя выбранного сайта (Рекомендуется для вновь созданного сайта)"
+
+#: admin/view-network.php:149
+msgid "Content Types"
+msgstr "Типы содержимого"
+
+#: admin/view-network.php:148
+msgid "Profiles"
+msgstr "Профили"
+
+#: admin/view-network.php:147
+msgid "Resources"
+msgstr "Ресурсы"
+
+#: admin/view-network.php:130
+msgid "Destination Site"
+msgstr "Сайт назначения"
+
+#: admin/view-network.php:117
+msgid "Source Site"
+msgstr "Исходный сайт"
+
+#: admin/view-network.php:111
+msgid "Copy Lingotek settings from the source site to multiple sites"
+msgstr "Копировать настройки Lingotek от исходного сайта к другим"
+
+#: admin/view-network.php:142
+msgid "Settings to copy"
+msgstr "Настройки для копирования"
+
+#: admin/view-network.php:94
+msgid "Your new projects were successfully created."
+msgstr "Ваш новый проект успешно создан."
+
+#: admin/view-network.php:82
+msgid "Please choose at least one destination site."
+msgstr "Пожалуйста, выберите как минимум один сайт назначения."
+
+#: admin/view-network.php:80
+msgid "Your chosen settings have updated successfully for all selected sites."
+msgstr "Выбранные вами настройки успешно обновлены для выбранных сайтов."
+
+#: admin/tutorial/features.php:15
+msgid "Request professional translation"
+msgstr "Запросить профессиональный перевод"
+
+#: admin/tutorial/features.php:35
+msgid "Content type profiles"
+msgstr "Профили типов содержимого"
+
+#: admin/tutorial/features.php:30
+msgid "Use translation profiles"
+msgstr "Использовать профили перевода"
+
+#: admin/tutorial/features.php:25
+msgid "Fully compatible with Polylang"
+msgstr "Полностью совместим с Polylang"
+
+#: admin/tutorial/features.php:10
+msgid "Automatically translate content"
+msgstr "Автоматически переводить содержимое"
+
+#: admin/actions.php:91
+msgid "Uploading..."
+msgstr "Загрузка..."
+
+#: admin/actions.php:97
+msgid "Request translations"
+msgstr "Запросить переводы"
+
+#: admin/actions.php:98
+msgid "Requesting translations..."
+msgstr "Запрос переводов..."
+
+#: admin/actions.php:82 admin/actions.php:779
+msgid "You are about to overwrite existing translations. Are you sure?"
+msgstr "Вы собираетесь перезаписать существующие переводы. Вы уверены?"
+
+#: admin/actions.php:90
+msgid "Upload to Lingotek"
+msgstr "Загрузить в Lingotek"
+
+#: admin/actions.php:187
+msgid "Ready to download"
+msgstr "Готов к скачиванию"
+
+#: admin/actions.php:182 admin/tutorial/content.php:82
+msgid "In Progress"
+msgstr "В процессе"
+
+#: admin/actions.php:177
+msgid "Request a translation"
+msgstr "Запросить перевод"
+
+#: admin/actions.php:172
+msgid "Source uploaded"
+msgstr "Оригинал загружен"
+
+#: admin/actions.php:161
+msgid "Importing source"
+msgstr "Импортирование оригинала"
+
+#: admin/actions.php:156
+msgid "Upload Now"
+msgstr "Загрузить сейчас"
+
+#: admin/actions.php:112
+msgid "Downloading translations..."
+msgstr "Скачивание переводов..."
+
+#: admin/actions.php:111 admin/admin.php:400
+msgid "Download translations"
+msgstr "Скачать переводы"
+
+#: admin/actions.php:104
+msgid "Update translations status"
+msgstr "Обновить статус переводов"
+
+#: admin/actions.php:105
+msgid "Updating translations status..."
+msgstr "Обновление статуса перевода..."
+
+#: admin/actions.php:113
+msgid "Download translations of this item from Lingotek TMS"
+msgstr "Скачать переводы от Lingotek TMS"
+
+#: admin/actions.php:106
+msgid "Update translations status of this item in Lingotek TMS"
+msgstr "Обновить статус переводов в Lingotek TMS"
+
+#: admin/admin.php:385 admin/admin.php:390 lingotek.php:1015
+msgid "Automatic"
+msgstr "Автоматически"
+
+#: admin/admin.php:338
+msgid "Redirecting to Lingotek to connect your account..."
+msgstr "Перенаправление на Lingotek для подключения вашей учетной записи..."
+
+#: admin/admin.php:320
+msgid "Select and save the community that you would like to use."
+msgstr "Выберите и сохраните сообщество, которое хотите использовать."
+
+#: admin/admin.php:314
+msgid "Your community has been successfully saved."
+msgstr "Ваше сообщество успешно сохранено."
+
+#: admin/admin.php:369
+msgid "Your Lingotek account was not connected.\tThe Access Token received was invalid."
+msgstr "Ваша учетная запись Lingotek не была подключена.\tПолученный неверный токен доступа."
+
+#: admin/admin.php:367
+msgid "Your Lingotek account has been successfully connected."
+msgstr "Ваша учетная запись Lingotek успешно подключена."
+
+#: admin/admin.php:273 admin/view-tutorial.php:5
+msgid "Tutorial"
+msgstr "Руководство"
+
+#: admin/admin.php:273
+msgid "Lingotek Tutorial"
+msgstr "Руководство Lingotek"
+
+#: admin/admin.php:272
+msgid "Translation Settings"
+msgstr "Настройки перевода"
+
+#: admin/admin.php:271
+msgid "Translation Management"
+msgstr "Управление переводом"
+
+#: admin/admin.php:270 admin/view-dashboard.php:2
+msgid "Dashboard"
+msgstr "Консоль"
+
+#: admin/admin.php:270 admin/tutorial/faq.php:61
+msgid "Translation Dashboard"
+msgstr "Консоль переводов"
+
+#: admin/admin.php:260
+msgid "Translation"
+msgstr "Перевод"
+
+#: admin/actions.php:212
+msgid "There was an error contacting Lingotek"
+msgstr "Произошла ошибка при обращении к Lingotek"
+
+#: admin/admin.php:405
+msgid "Project"
+msgstr "Проект"
+
+#: admin/admin.php:405
+msgid "Default Project"
+msgstr "Проект по умолчанию"
+
+#: admin/admin.php:420
+msgid "Secondary Filter"
+msgstr "Дополнительный фильтр"
+
+#: admin/admin.php:415
+msgid "Primary Filter"
+msgstr "Основной фильтр"
+
+#: admin/manage/view-content.php:29 admin/manage/view-strings.php:1
+#: admin/view-manage.php:11
+msgid "Strings"
+msgstr "Строки"
+
+#: admin/custom-fields-table.php:102
+msgid "Action"
+msgstr "Действие"
+
+#: admin/content-table.php:174
+msgid "Fields"
+msgstr "Поля"
+
+#: admin/content-table.php:173
+msgid "Profile"
+msgstr "Профиль"
+
+#: admin/content-table.php:172
+msgid "Content Type"
+msgstr "Тип содержимого"
+
+#: admin/manage/view-edit-profile.php:140
+msgid "Target languages"
+msgstr "Целевые языки"
+
+#: admin/manage/view-edit-profile.php:122 admin/settings/view-defaults.php:138
+msgid "Not configured"
+msgstr "Не задано"
+
+#: admin/manage/view-edit-profile.php:122 admin/settings/view-defaults.php:138
+msgid "Filters"
+msgstr "Фильтры"
+
+#: admin/manage/view-edit-profile.php:67 admin/profiles-table.php:96
+msgid "Profile name"
+msgstr "Имя профиля"
+
+#: admin/actions.php:217 admin/manage/view-edit-profile.php:18
+msgid "Copy source language"
+msgstr "Копировать исходный язык"
+
+#: admin/manage/view-edit-profile.php:17
+msgid "Use custom settings"
+msgstr "Использовать индивидуальные настройки"
+
+#: admin/manage/view-edit-profile.php:16
+msgid "Use default settings"
+msgstr "Использовать настройки по умолчанию"
+
+#: admin/manage/view-profiles.php:120 admin/view-manage.php:8
+msgid "Translation Profiles"
+msgstr "Профили перевода"
+
+#: admin/manage/view-profiles.php:106
+msgid "Your translation profile was sucessfully saved."
+msgstr "Ваш профиль перевода сохранен."
+
+#: admin/manage/view-profiles.php:28
+msgid "You must provide a name for your translation profile."
+msgstr "Нужно ввести имя вашего профиля перевода."
+
+#: admin/manage/view-profiles.php:15
+msgid "Your translation profile was sucessfully deleted."
+msgstr "Ваш профиль перевода удалён."
+
+#: admin/manage/view-edit-profile.php:358 admin/profiles-table.php:79
+msgid "You are about to permanently delete this profile. Are you sure?"
+msgstr "Вы собираетесь навсегда удалить этот профиль. Вы уверены?"
+
+#: admin/manage/view-edit-profile.php:84
+msgid "Default settings"
+msgstr "Настройки по умолчанию"
+
+#: admin/manage/view-custom-fields.php:110
+msgid "Refresh Custom Fields"
+msgstr "Обновить индивидуальные поля"
+
+#: admin/manage/view-custom-fields.php:74
+msgid "Custom Field Configuration"
+msgstr "Индивидуальные настройки поля"
+
+#: lingotek.php:768
+msgid "Lingotek Translation requires Polylang to work. "
+msgstr "Переводам Lingotek для работы требуется Polylang. "
+
+#: include/plugins-compat.php:38
+msgid "Import <strong>posts, pages, comments, custom fields, categories, and tags</strong> from a WordPress export file."
+msgstr "Импортировать <strong>posts, pages, comments, custom fields, categories, and tags</strong> из файла экспорта WordPress."
+
+#: include/group-post.php:51
+msgid "Caption"
+msgstr "Подпись"
+
+#: include/api.php:893
+msgid "There was an error downloading translation %1$s for WordPress item %2$s"
+msgstr "Произошла ошибка загрузки перевода %1$s wordPress для %2$s"
+
+#: include/api.php:828
+msgid "There was an error requesting translation %1$s for WordPress item %2$s"
+msgstr "Была ошибка, запрашивающая перевод %1$s для пункта WordPress %2$s"
+
+#: include/api.php:560
+msgid "There was an error updating the translations status for WordPress item %1$s"
+msgstr "Произошла ошибка в обновлении статуса переводов для элемента WordPress %1$s"
+
+#: include/api.php:146
+msgid "There was an error uploading WordPress item %1$s"
+msgstr "Произошла ошибка загрузки wordPress пункта %1$s"
+
+#: admin/view-tutorial.php:4
+msgid "Features"
+msgstr "Возможности"
+
+#: admin/view-network.php:168
+msgid "Update Options"
+msgstr "Обновить настройки"
+
+#: admin/view-network.php:110
+msgid "Lingotek Network Settings"
+msgstr "Настройки сети Lingotek"
+
+#: admin/view-network.php:78
+msgid "The language utility ran successfully."
+msgstr "Языковая утилита работала успешно."
+
+#: admin/utilities.php:82
+msgid "The language update utility ran successfully."
+msgstr "Утилита обновления языка успешно работала."
+
+#: admin/tutorial/features.php:53
+msgid "Request Services"
+msgstr "Запросить услуги"
+
+#: admin/tutorial/features.php:51
+msgid "Do you need help creating glossaries and terminologies?"
+msgstr "Вам нужна помощь в создании глоссариев и терминологий?"
+
+#: admin/tutorial/features.php:50
+msgid "Do you you have existing Translation Memories you would like to use?"
+msgstr "У вас есть существующие воспоминания о переводе, которые вы хотели бы использовать?"
+
+#: admin/tutorial/features.php:49
+msgid "Do you need customized workflows?"
+msgstr "Нужны ли вам индивидуальные рабочие процессы?"
+
+#: admin/tutorial/features.php:48
+msgid "Do you need someone to run your localization project?"
+msgstr "Вам нужен кто-то для запуска вашего проекта локализации?"
+
+#: admin/tutorial/features.php:46
+msgid "Start the process of getting extra services."
+msgstr "Начните процесс получения дополнительных услуг."
+
+#: admin/tutorial/features.php:45
+msgid "Need Extra Services?"
+msgstr "Нужны дополнительные услуги?"
+
+#: admin/tutorial/features.php:6
+msgid "Easily translate your site into new languages by adding the desired language to your site.  Lingotek allows you to quickly add any of the most frequently used locales using the <a href=\"%s\" title=\"Translation &gt; Dashboard\">Translation Dashboard</a>."
+msgstr "Легко перевести ваш сайт на новые языки, добавив нужный язык на ваш сайт.  Lingotek позволяет быстро добавлять любой из наиболее часто используемых локал с помощью панели <a href=\"%s\" title=\"Translation &gt; Dashboard\">мониторинга перевода.</a>."
+
+#: admin/tutorial/features.php:5
+msgid "Translate into new languages"
+msgstr "Перевод на новые языки"
+
+#: admin/tutorial/faq.php:62
+msgid "The <i>translation dashboard</i> allows you to view your site languages, add and remove new languages, check the overall translation progress of your site, see site analytics, and connect with Lingotek support."
+msgstr "Панель <i>мониторинга перевода</i> позволяет просматривать языки вашего сайта, добавлять и удалять новые языки, проверять общий прогресс перевода вашего сайта, просматривать аналитику сайта и связываться с поддержкой Lingotek."
+
+#: admin/tutorial/features.php:36
+msgid "Content type profiles. Manually choosing which content to upload and download is rarely what a content administrator wants to do, and automating the upload of every change is not workable because there are various types of content. Each type of translatable content can be assigned to a customizable profile. For example, by default, we like to have Posts use an <i>Automatic</i> profile so that content will automatically be uploaded for translation and the resulting translations automatically be downloaded back into WordPress."
+msgstr "Профили типа содержимого. Ручной выбор содержимого для загрузки и загрузки редко является тем, что администратор контента хочет сделать, и автоматизация загрузки каждого изменения не работает, потому что существуют различные типы контента. Каждый тип переводимого содержимого может быть назначен настраиваемому профилю. Например, по умолчанию мы хотели бы, чтобы Сообщения использовали <i>автоматический</i> профиль, так что содержимое будет автоматически загружено для перевода и полученные переводы автоматически будут загружены обратно в WordPress."
+
+#: admin/tutorial/features.php:31
+msgid "One of the most time-consuming activities of any multilingual web-site project is managing the ongoing flow of changes and additions to site content and configurations. Translation profiles were created to allow you to create and save and re-use your translation settings."
+msgstr "Одним из наиболее трудоемких видов деятельности любого многоязычного веб-проекта является управление текущим потоком изменений и дополнений к содержанию и конфигурациям сайтов. Профили переводов были созданы для создания, сохранения и повторного использования настроек перевода."
+
+#: admin/tutorial/features.php:11
+msgid "Machine translation is an excellent option if you're on a tight budget, looking for near-instant results, and are okay with less-than-perfect quality. The plugin allows you to quickly and automatically translate your site (the cost is covered by Lingotek for up to 100,000 characters)."
+msgstr "Машинный перевод является отличным вариантом, если вы находитесь на жесткий бюджет, ищет почти мгновенные результаты, и все в порядке с менее чем идеальное качество. Плагин позволяет быстро и автоматически переводить ваш сайт (стоимость покрывается Lingotek на срок до 100 000 символов)."
+
+#: admin/tutorial/faq.php:57
+msgid "Lingotek Translation is the only WordPress plugin to integrate a Translation Management System directly into WordPress, thus allowing the WordPress community to use professional-grade translation technologies (e.g. machine translation, translation memory, CAT tool) without ever having to leave the comfort of the WordPress environment."
+msgstr "Lingotek Перевод является единственным WordPress плагин для интеграции системы управления переводом непосредственно в WordPress, что позволяет WordPress сообщества использовать технологии профессионального класса перевода (например, машинный перевод, память перевода, CAT инструмент), даже не выходя из комфорта WordPress окружающей среды."
+
+#: admin/tutorial/faq.php:49
+msgid "How do I translate strings within widgets or general WordPress settings (e.g., Site Title, Tagline)?"
+msgstr "Как перевести строки в виджетах или общих настройках WordPress (например, название сайта, слоган)?"
+
+#: admin/tutorial/faq.php:47
+msgid "When content is disassociated, the connection between WordPress and <i>Lingotek</i> is safely removed so that translations can be solely managed inside of WordPress."
+msgstr "Когда контент разобщен, связь между WordPress <i>и Lingotek</i> безопасно удаляется, так что переводы могут управляться исключительно внутри WordPress."
+
+#: admin/tutorial/faq.php:46
+msgid "What happens when I <i>Disassociate Translations</i>?"
+msgstr "Что происходит, когда <i>я отмежеваться переводы</i>?"
+
+#: admin/tutorial/faq.php:42
+msgid "<i>Light Blue:</i> Indicates that this is a target language that the content was translated into."
+msgstr "<i>Светло-голубой:</i> Указывает, что это целевой язык, на который было переведено содержимое."
+
+#: admin/tutorial/faq.php:41
+msgid "<i>Dark Blue:</i> Indicates that this is a source language that the content was authored in."
+msgstr "<i>Темно-синий:</i> Указывает, что это исходный язык, автором которого является содержание."
+
+#: admin/tutorial/faq.php:38
+msgid "The <i>translation dashboard</i> not only shows how much of your content is translated, but also indicates the language that your source content was authored in."
+msgstr "Панель <i>мониторинга перевода</i> не только показывает, сколько содержимого переведено, но и указывает язык, на который был основан исходный контент."
+
+#: admin/tutorial/faq.php:37
+msgid "Why are there two different shades of blue in the progress bar?"
+msgstr "Почему в баре прогресса два разных оттенка синего?"
+
+#: admin/tutorial/faq.php:34
+msgid "On the <i>translation dashboard</i>, the bars under <i>Completed Percentage</i> show the translation progress of content for each language. You can filter by content type or show progress for all content."
+msgstr "На <i>панели мониторинга перевода</i>бары под <i>завершенным процентом</i> показывают прогресс перевода контента для каждого языка. Вы можете фильтровать по типу содержимого или показывать прогресс для всего содержимого."
+
+#: admin/tutorial/faq.php:33
+msgid "How can I check the overall translation progress of my site?"
+msgstr "Как я могу проверить общий ход перевода моего сайта?"
+
+#: admin/tutorial/faq.php:31 admin/tutorial/features.php:16
+msgid "Use your own translation agency or tap into Lingotek's network of more than 5,000+ in-country translators. Content transfer is fully automated between WordPress and Lingotek. You'll have full visibility into the translation process every step of the way. And once the translations are completed, they'll automatically download and publish to your website according to the preferences you've set."
+msgstr "Используйте свое собственное бюро переводов или ввяйте в сеть Lingotek более 5000 переводчиков в стране. Передача контента полностью автоматизирована между WordPress и Lingotek. Вы будете иметь полную видимость в процессе перевода на каждом этапе пути. И как только переводы будут завершены, они будут автоматически загружать и публиковать на вашем сайте в соответствии с предпочтениями, которые вы установили."
+
+#: admin/tutorial/faq.php:30
+msgid "Can I use my own translation agency with Lingotek?"
+msgstr "Могу ли я использовать собственное бюро переводов с Lingotek?"
+
+#: admin/tutorial/faq.php:28
+msgid "You must assign a language to content that existed before you installed the <i>Polylang</i> and <i>Lingotek</i> plugins. You can do this manually or use the <a href='%s'><i>Lingotek Language Utility</i></a> to set all content that doesn't have an assigned language to the default language. This will allow you to upload your existing content to Lingotek."
+msgstr "Вы должны присвоить язык контенту, существовавому <i>до установки плагинов Polylang</i> <i>и Lingotek.</i> Вы можете сделать это вручную или использовать <a href='%s'><i>утилиту языка Lingotek для</i></a> настройки всего содержимого, которое не имеет назначенного языка языку по умолчанию. Это позволит вам загрузить существующий контент в Lingotek."
+
+#: admin/tutorial/faq.php:27
+msgid "Why can't I upload my existing content to Lingotek?"
+msgstr "Почему я не могу загрузить существующий контент в Lingotek?"
+
+#: admin/tutorial/faq.php:24
+msgid "Note: If you have translated content in a language you will not be able to remove that language until that content has been deleted."
+msgstr "Примечание: Если вы перевели содержимое на язык, вы не сможете удалить этот язык до тех пор, пока это содержимое не будет удалено."
+
+#: admin/tutorial/faq.php:23
+msgid "On the <i>translation dashboard</i>, click on the blue check mark for the language you would like to remove."
+msgstr "На <i>панели мониторинга перевода</i>нажмите на синий контрольный знак для языка, который вы хотели бы удалить."
+
+#: admin/tutorial/faq.php:21
+msgid "How can I remove a language?"
+msgstr "Как удалить язык?"
+
+#: admin/tutorial/faq.php:19
+msgid "On the <i>translation dashboard</i>, click on the <i>Translate my site into...</i> textbox and choose from the list or start typing to quickly find a language."
+msgstr "На <i>панели мониторинга</i>перевода, нажмите на Translate мой сайт в <i>...</i> textbox и выбрать из списка или начать печатать на машинке, чтобы быстро найти язык."
+
+#: admin/tutorial/faq.php:18
+msgid "How can I add a language?"
+msgstr "Как добавить язык?"
+
+#: admin/tutorial/faq.php:16
+msgid "<i>Lingotek</i> has teamed up with <i>Polylang</i> to offer a simple way to make your WordPress site truly multilingual. Manage all your multilingual content in the same site. No need to have a different site for each language!"
+msgstr "<i>Lingotek</i> объединилась с <i>Polylang, чтобы предложить</i> простой способ сделать ваш сайт WordPress по-настоящему многоязычным. Управление всем многоязычным контентом на одном и том же сайте. Нет необходимости иметь другой сайт для каждого языка!"
+
+#: admin/tutorial/faq.php:15
+msgid "What does the Lingotek plugin do?"
+msgstr "Что делает плагин Lingotek?"
+
+#: admin/tutorial/faq.php:13
+msgid "<i>Polylang</i> puts in the framework to make WordPress multilingual and <i>Lingotek</i> leverages that framework to provide localization through machine translation and professional translation services."
+msgstr "<i>Polylang создает</i> рамки для того, чтобы WordPress <i>многоязычный и Lingotek</i> использует эту основу для обеспечения локализации с помощью машинного перевода и профессиональных услуг перевода."
+
+#: admin/tutorial/faq.php:12
+msgid "How does this really work?"
+msgstr "Как это на самом деле работает?"
+
+#: admin/tutorial/faq.php:10
+msgid "Questions and answers..."
+msgstr "Вопросы и ответы..."
+
+#: admin/tutorial/credits.php:98
+msgid "Project Leaders"
+msgstr "Лидеры проекта"
+
+#: admin/tutorial/credits.php:96
+msgid "The Lingotek plugin for WordPress is created with love."
+msgstr "Плагин Lingotek для WordPress создан с любовью."
+
+#: admin/tutorial/content.php:103
+msgid "The translation is complete. (Clicking on this icon will allow you to edit translations in the Lingotek Workbench)"
+msgstr "Перевод завершен. (Нажатие на эту иконку позволит вам редактировать переводы в Lingotek Workbench)"
+
+#: admin/tutorial/content.php:98
+msgid "Download the translated content to WordPress."
+msgstr "Загрузите переведенный контент в WordPress."
+
+#: admin/tutorial/content.php:97
+msgid "Download Translation"
+msgstr "Скачать перевод"
+
+#: admin/tutorial/content.php:93
+msgid "Request a translation of the source content. (Add a target language)"
+msgstr "Запросите перевод исходных содержимого. (Добавить целевой язык)"
+
+#: admin/tutorial/content.php:92
+msgid "Request Translation"
+msgstr "Запросить перевод"
+
+#: admin/tutorial/content.php:88
+msgid "The source content has been uploaded to Lingotek."
+msgstr "Исходный контент был загружен в Lingotek."
+
+#: admin/tutorial/content.php:87
+msgid "Source Uploaded"
+msgstr "Источник загружен"
+
+#: admin/tutorial/content.php:83
+msgid "Content is importing to Lingotek or a target language is being added to source content."
+msgstr "Содержимое импортируется в Lingotek или целевой язык добавляется в исходный контент."
+
+#: admin/tutorial/content.php:78
+msgid "There is content ready to be uploaded to Lingotek."
+msgstr "Существует контент, готовый к загрузке в Lingotek."
+
+#: admin/tutorial/content.php:77
+msgid "Upload Source"
+msgstr "Источник загрузки"
+
+#: admin/tutorial/content.php:72
+msgid "What do all the icons mean?"
+msgstr "Что означают все значки?"
+
+#: admin/tutorial/content.php:69
+msgid "Your content has been translated."
+msgstr "Ваш контент был переведен."
+
+#: admin/tutorial/content.php:66
+msgid "6. Your content is translated!"
+msgstr "6. Ваш контент переведен!"
+
+#: admin/tutorial/content.php:63
+msgid "Your translations are ready for download."
+msgstr "Ваши переводы готовы к загрузке."
+
+#: admin/tutorial/content.php:61
+msgid "Once your translations are complete they will be marked ready for download. You can download translations for all languages, each language individually, or in bulk (using the <i>Bulk Actions</i> dropdown)."
+msgstr "Как только ваши переводы будут завершены, они будут помечены готовыми к загрузке. Вы можете скачать переводы для всех языков, каждого языка в отдельности, или оптом (с <i>помощью массовых действий</i> падения)."
+
+#: admin/tutorial/content.php:60
+msgid "5. Download translations"
+msgstr "5. Скачать переводы"
+
+#: admin/tutorial/content.php:55
+msgid "Your content will now be translated into your selected target languages by free machine translation or, if you contract with <i>Lingotek</i>, professional translation services."
+msgstr "Теперь ваш контент будет переведен на выбранные вами целевые языки с помощью бесплатного машинного перевода или, <i>если вы заключите контракт с Lingotek,</i>профессиональными службами перевода."
+
+#: admin/tutorial/content.php:51
+msgid "The source content is uploaded and ready for target languages."
+msgstr "Исходный контент загружается и готов к целевым языкам."
+
+#: admin/tutorial/content.php:67
+msgid "The orange pencil icons indicate that your translations are finished, downloaded, and current within your WordPress site. Clicking on any one of the pencils will direct you to the Lingotek Workbench for that specific language. Here you can make updates and changes to your translations if necessary."
+msgstr "Оранжевые значки карандаша указывают на то, что ваши переводы закончены, загружены и актуальны на вашем сайте WordPress. Нажав на любой из карандашей направит вас к Lingotek Workbench для этого конкретного языка. Здесь вы можете внести обновления и изменения в свои переводы, если это необходимо."
+
+#: admin/tutorial/content.php:49
+msgid "Request translation for a specific language by clicking on the orange plus icon, for all languages at once, or in bulk by using the <i>Bulk Actions</i> dropdown."
+msgstr "Запросите перевод на определенный язык, нажав на значок orange plus, для всех языков сразу или оптом, <i>используя падение Bulk Actions</i>."
+
+#: admin/tutorial/content.php:48
+msgid "3. Request translations for target languages"
+msgstr "3. Запрос переводов на целевые языки"
+
+#: admin/tutorial/content.php:43
+msgid "Your WordPress content can be uploaded to <i>Lingotek</i> with the simple push of a button."
+msgstr "Содержимое WordPress можно загрузить в <i>Lingotek</i> простым нажатием кнопки."
+
+#: admin/tutorial/content.php:42
+msgid "2. Upload content to Lingotek"
+msgstr "2. Загрузить контент в Lingotek"
+
+#: admin/tutorial/content.php:39
+msgid "Create a new page for translation."
+msgstr "Создайте новую страницу для перевода."
+
+#: admin/tutorial/content.php:37
+msgid "The examples shown below are for Pages but translation for other content types works the same way!"
+msgstr "Примеры, показанные ниже, для Страниц, но перевод для других типов контента работает так же!"
+
+#: admin/tutorial/content.php:36
+msgid "Whether you write a blog post, create a page for your site, or have existing posts and pages, any of your WordPress content can be uploaded to <i>Lingotek</i>."
+msgstr "Если вы пишете в блоге, создать страницу для вашего сайта, или существующие сообщения и страницы, любой из ваших WordPress содержание может быть <i>загружено в Lingotek</i>."
+
+#: admin/tutorial/content.php:35
+msgid "1. Create content"
+msgstr "1. Создание контента"
+
+#: admin/strings-table.php:151
+msgid "Count"
+msgstr "Количество"
+
+#: admin/strings-table.php:150
+msgid "Group"
+msgstr "Группа"
+
+#: admin/settings/view-utilities.php:86
+msgid "Run Utilities"
+msgstr "Вы запустите Утилиты"
+
+#: admin/settings/view-utilities.php:49
+msgid "Set <i>default language</i> as the language for all content that has not been assigned a language."
+msgstr "Установите <i>язык по</i> умолчанию в качестве языка для всего содержимого, которое не было назначено языку."
+
+#: admin/settings/view-utilities.php:36
+msgid "These utilities are designed to help you prepare and maintain your multilingual content."
+msgstr "Эти утилиты предназначены для подготовки и поддержания многоязычного контента."
+
+#: admin/settings.php:18 admin/settings/view-utilities.php:35
+msgid "Utilities"
+msgstr "Утилиты"
+
+#: admin/settings/view-preferences.php:102
+msgid "These are your preferred settings."
+msgstr "Это ваши предпочтительные настройки."
+
+#: admin/settings.php:17 admin/settings/view-preferences.php:101
+#: admin/view-network.php:150
+msgid "Preferences"
+msgstr "Настройки"
+
+#: admin/import/view-settings.php:60 admin/settings/view-preferences.php:94
+msgid "Your preferences were successfully updated."
+msgstr "Ваши предпочтения были успешно обновлены."
+
+#: admin/settings/view-preferences.php:15
+msgid "The post statuses checked above are enabled for automatic upload (when using automatic uploading translation profiles)."
+msgstr "Проверенные выше статусы почты включены для автоматической загрузки (при использовании профилей автоматического загрузки перевода)."
+
+#: admin/settings/view-preferences.php:14
+msgid "Auto upload statuses"
+msgstr "Статусы автоматической загрузки"
+
+#: admin/import/view-settings.php:25
+msgid "Privately Published"
+msgstr "Частная Публикация"
+
+#: admin/import/view-settings.php:24
+msgid "Published"
+msgstr "Опубликовано"
+
+#: admin/import/view-settings.php:23
+msgid "Pending Review"
+msgstr "Ожидает оценки"
+
+#: admin/import/view-settings.php:22
+msgid "Draft"
+msgstr "Черновик"
+
+#: admin/settings/view-preferences.php:9
+msgid "Same as source post"
+msgstr "То же, что и исходный пост"
+
+#: admin/settings/view-preferences.php:7
+msgid "The post status for newly downloaded translations"
+msgstr "Статус должности для вновь загруженных переводов"
+
+#: admin/settings/view-preferences.php:6
+msgid "Download translation status"
+msgstr "Скачать статус перевода"
+
+#: admin/settings/view-defaults.php:156
+msgid "Refresh Resources"
+msgstr "Обновление ресурсов"
+
+#: admin/settings/view-defaults.php:128
+msgid "Create New Project"
+msgstr "Создать новый проект"
+
+#: admin/settings/view-defaults.php:121 admin/settings/view-defaults.php:124
+msgid "Enter new project name"
+msgstr "Введите новое название проекта"
+
+#: admin/settings/view-defaults.php:94
+msgid "The default automation settings and resources that should be used for this site.  These settings can be overriden using translation profiles and content type configuration."
+msgstr "Настройки автоматизации по умолчанию и ресурсы, которые должны быть использованы для этого сайта.  Эти настройки можно переопределить с помощью профилей перевода и конфигурации типа содержимого."
+
+#: admin/settings.php:16 admin/settings/view-defaults.php:93
+#: admin/view-network.php:146
+msgid "Defaults"
+msgstr "По умолчанию"
+
+#: admin/settings/view-defaults.php:49 admin/view-network.php:96
+msgid "Your new project was successfully created."
+msgstr "Ваш новый проект был успешно создан."
+
+#: admin/settings/view-defaults.php:31
+msgid "Your <i>Defaults</i> were sucessfully saved."
+msgstr "Ваши <i>по умолчанию</i> были успешно сохранены."
+
+#: admin/settings/view-defaults.php:17
+msgid "Resources from Lingotek were successfully updated for workflows."
+msgstr "Ресурсы Lingotek были успешно обновлены для рабочих процессов."
+
+#: admin/settings/view-defaults.php:15
+msgid "Resources from Lingotek were successfully updated for projects."
+msgstr "Ресурсы Lingotek были успешно обновлены для проектов."
+
+#: admin/settings/view-defaults.php:13
+msgid "Resources from Lingotek were successfully updated for projects and workflows."
+msgstr "Ресурсы Lingotek были успешно обновлены для проектов и рабочих процессов."
+
+#: admin/settings/view-account.php:119
+msgid "Select"
+msgstr "Выбрать"
+
+#: admin/settings/view-account.php:101 admin/view-network.php:145
+msgid "Community"
+msgstr "Сообщество"
+
+#: admin/settings/view-account.php:87
+msgid "Disconnect"
+msgstr "Отключить"
+
+#: admin/settings/view-account.php:86
+msgid "Are you sure you would like to disconnect your Lingotek account? \\n\\nAfter disconnecting, you will need to re-connect an account to continue using Lingotek."
+msgstr "Вы уверены, что хотите отключить учетную запись Lingotek? После отключения необходимо повторно подключить учетную запись, чтобы продолжить использование Lingotek."
+
+#: admin/settings/view-account.php:50
+msgid "Access Token"
+msgstr "Токен доступа"
+
+#: admin/settings/view-account.php:36
+msgid "Login ID"
+msgstr "Логин ID"
+
+#: admin/settings/view-account.php:26 admin/settings/view-account.php:31
+msgid "Connected"
+msgstr "Подключено"
+
+#: admin/settings/view-account.php:21
+msgid "Lingotek account connection and community selection."
+msgstr "Подключение учетной записи Lingotek и выбор сообщества."
+
+#: admin/settings/view-account.php:5 admin/settings/view-defaults.php:19
+msgid "The Lingotek TMS is currently unavailable. Please try again later. If the problem persists, contact Lingotek Support."
+msgstr "Lingotek TMS в настоящее время недоступен. Пожалуйста, повторите попытку позже. Если проблема сохраняется, обратитесь в поддержку Lingotek."
+
+#. translators: %s: Connect to Lingotek url.
+#: admin/settings/connect-account.php:60
+msgid "Do you already have a Lingotek account? <a href=\"%s\">Connect Lingotek Account</a>"
+msgstr "У вас уже есть учетная запись Lingotek? <a href=\"%s\">Подключение учетной записи Lingotek</a>"
+
+#: admin/settings/connect-account.php:48
+msgid "Connect New Account"
+msgstr "Подключение новой учетной записи"
+
+#: admin/settings/connect-account.php:43
+msgid "Get started by clicking the button below to connect your Lingotek account to this WordPress installation."
+msgstr "Начать работу, нажав кнопку ниже, чтобы подключить учетную запись Lingotek к этой установке WordPress."
+
+#: admin/settings/connect-account.php:40
+msgid "Connect Your Account"
+msgstr "Подключите свою учетную запись"
+
+#: admin/profiles-table.php:98
+msgid "Actions"
+msgstr "Действия"
+
+#. translators: %d: Number of content types.
+#: admin/profiles-table.php:53
+msgid "%d content type"
+msgid_plural "%d content types"
+msgstr[0] "%d тип контента"
+msgstr[1] "%d типа контента"
+msgstr[2] "%d типов контента"
+
+#: admin/profiles-table.php:51
+msgid "No content types"
+msgstr "Нет типов содержимого"
+
+#: admin/post-actions.php:381 admin/post-actions.php:386
+msgid "Translation Profile"
+msgstr "Профиль перевода"
+
+#: admin/post-actions.php:379
+msgid "Are you sure you want to do this?"
+msgstr "Вы уверены, что хотите это сделать?"
+
+#: admin/post-actions.php:348 admin/post-actions.php:354
+msgid "Content Default"
+msgstr "Содержимое по умолчанию"
+
+#: admin/manage/view-strings.php:51
+msgid "Search translations"
+msgstr "Поиск перевода"
+
+#: admin/manage/view-strings.php:1
+msgid "Edit on Polylang Strings Translation page"
+msgstr "Редактировать на странице перевода строк Polylang"
+
+#: admin/manage/view-string-groups.php:3
+msgid "Manage group translation of system, widget, and plugin-specific strings. View individual strings on the <a href=\"%s\"><b>Strings</b></a> page."
+msgstr "Управление групповым переводом строк системы, виджета и плагина. Просмотр отдельных строк на <a href=\"%s\"><b>странице Строки</b></a>."
+
+#: admin/manage/view-profiles.php:122
+msgid "Translation profiles allow you to quickly configure and re-use translation settings."
+msgstr "Профили переводов позволяют быстро настроить и повторно использовать настройки перевода."
+
+#: admin/manage/view-profiles.php:112 admin/settings/view-defaults.php:37
+msgid "Your callback url was successfully updated."
+msgstr "Ваш URL-адрес обратного вызова был успешно обновлен."
+
+#: admin/manage/view-edit-profile.php:359 admin/post-actions.php:383
+#: admin/profiles-table.php:80
+msgid "Delete"
+msgstr "Удалить"
+
+#: admin/manage/view-edit-profile.php:106 admin/settings/view-defaults.php:126
+msgid "Update the callback url for this project."
+msgstr "Обновление URL-адреса обратного вызова для этого проекта."
+
+#. translators: %s: The global default value.
+#: admin/manage/view-edit-profile.php:7
+msgid "Use global default (%s)"
+msgstr "Использование глобального значения по умолчанию (%s)"
+
+#: admin/manage/view-custom-fields.php:76
+msgid "Custom Fields can be translated, copied, or ignored. Click \"Refresh Custom Fields\" to identify and enable your custom fields."
+msgstr "Пользовательские поля могут быть переведены, скопированы или проигнорированы. Нажмите кнопку \"Обновить пользовательские поля\", чтобы определить и включить пользовательские поля."
+
+#: admin/manage/view-custom-fields.php:38
+msgid "Your <i>Custom Fields</i> were sucessfully identified."
+msgstr "Ваши <i>пользовательские</i> поля были успешно идентифицированы."
+
+#: admin/manage/view-content.php:86
+msgid "Content types can be configured to use any translation profile.  Additionally, translation profiles can be set based on the language the content was authored in."
+msgstr "Типы содержимого могут быть настроены с использованием любого профиля перевода.  Кроме того, профили переводов могут быть установлены на основе языка, на который был основан контент."
+
+#: admin/manage/view-content.php:85 admin/view-manage.php:7
+msgid "Content Type Configuration"
+msgstr "Конфигурация типа содержимого"
+
+#: admin/manage/view-content.php:71
+msgid "Your content types were sucessfully saved."
+msgstr "Типы содержимого были успешно сохранены."
+
+#: admin/filters-post.php:117
+msgid "Not set to the content default profile"
+msgstr "Не установлен в профиль содержимого по умолчанию"
+
+#: admin/content-table.php:103
+msgid "Use content type default"
+msgstr "Использование по умолчанию типа содержимого"
+
+#. translators: %s: The language name.
+#: admin/content-table.php:80
+msgid "%s source"
+msgstr "%s источник"
+
+#. translators: %s: Admin url for Lingotek translation settings.
+#: admin/admin.php:592
+msgid "Your <a href=\"%s\"><i>Defaults</i></a> have been updated to valid options for this community."
+msgstr "Ваши <a href=\"%s\"><i>по умолчанию</i></a> были обновлены до действительных опций для этого сообщества."
+
+#: admin/admin.php:410
+msgid "Workflow"
+msgstr "Рабочий процесс"
+
+#: admin/admin.php:410
+msgid "Default Workflow"
+msgstr "Рабочий процесс по умолчанию"
+
+#: admin/admin.php:407 admin/admin.php:412 admin/admin.php:417
+#: admin/admin.php:422
+msgid "Changes will affect new entities only"
+msgstr "Изменения коснутся только новых сущностей"
+
+#: admin/admin.php:402
+msgid "How should completed translations be downloaded to WordPress?"
+msgstr "Как следует загрузить завершенные переводы в WordPress?"
+
+#: admin/actions.php:207
+msgid "The target translation is no longer current as the source content has been updated"
+msgstr "Целевой перевод больше не тока, так как исходный контент был обновлен"
+
+#: admin/actions.php:99
+msgid "Request translations of this item to Lingotek TMS"
+msgstr "Запрос переводов этого элемента в Lingotek TMS"
+
+#: admin/actions.php:92
+msgid "Upload this item to Lingotek TMS"
+msgstr "Загрузите этот элемент в Lingotek TMS"
+
+#: admin/tutorial/content.php:54
+msgid "4. Translate your content"
+msgstr "4. Перевод содержимого"
+
+#: admin/manage/view-profiles.php:139
+msgid "Add New Profile"
+msgstr "Добавить новый профиль"
+
+#: admin/settings/view-account.php:69
+msgid "API Endpoint"
+msgstr "Конечная точка API"
+
+#: admin/import.php:17 include/group-post.php:57
+msgid "Content"
+msgstr "Содержимое"
+
+#: admin/settings.php:12 admin/settings/view-account.php:20
+#: admin/view-network.php:144
+msgid "Account"
+msgstr "Учётная запись"
+
+#: admin/manage/view-edit-profile.php:363
+msgid "Cancel"
+msgstr "Отмена"
+
+#: admin/tutorial/content.php:45
+msgid "Content has been created and is ready for upload to Lingotek."
+msgstr "Содержимое создано и готово для загрузки в Lingotek."
+
+#: admin/tutorial/credits.php:124
+msgid "Contributors"
+msgstr "Разработчики"
+
+#: admin/actions.php:127
+msgid "Delete the translations of this item from Lingotek TMS"
+msgstr "Удалить переводы этого элемента из Lingotek TMS"
+
+#: admin/filters-post.php:122 admin/manage/view-edit-profile.php:19
+#: admin/manage/view-edit-profile.php:72 lingotek.php:1030
+msgid "Disabled"
+msgstr "Отключено"
+
+#: admin/admin.php:721
+msgid "Lingotek Settings"
+msgstr "Настройки Lingotek"
+
+#. Plugin Name of the plugin
+#: admin/post-actions.php:317 admin/post-actions.php:321
+#: admin/post-actions.php:322
+msgid "Lingotek Translation"
+msgstr "Lingotek Translation"
+
+#: admin/tutorial/faq.php:56
+msgid "Lingotek Workbench"
+msgstr "Рабочее место Lingotek"
+
+#: include/group-post.php:56 include/group-term.php:47
+msgid "Slug"
+msgstr "Ярлык"
+
+#: admin/manage/view-string-groups.php:1 admin/view-manage.php:10
+msgid "String Groups"
+msgstr "Группы строк"
+
+#: admin/admin.php:627
+msgid "Strings groups"
+msgstr "Группы строк"
+
+#: admin/import/view-content.php:30 admin/manage/view-string-groups.php:13
+msgid "The strings translation is disabled in %1$sContent Type Configuration%2$s."
+msgstr "Перевод строк отключен в %1$sКонфигурация типа контента%2$s."
+
+#: admin/tutorial/features.php:26
+msgid "Polylang and Lingotek work together seamlessly.  Continue to use Polylang for content that you want to translate inside WordPress, while sending other content to be translated by Lingotek. The <b style=\"color: %1$s\">orange</b> icons indicate Lingotek statuses/actions while the <b style=\"color: %2$s\">blue</b> icons continue to represent Polylang actions."
+msgstr "Polylang и Lingotek прекрасно работают вместе. Продолжайте использовать Polylang для контента, который вы хотите перевести внутри WordPress, отправляя другой контент на перевод в Lingotek. Значки <b style=\"color: %1$s\">оранжевые</b> обозначают статусы/действия Lingotek, а значки <b style=\"color: %2$s\">синие</b> по-прежнему представляют Polylang. действия."
+
+#: admin/tutorial/content.php:102
+msgid "Translation Current"
+msgstr "Текущий перевод"
+
+#: admin/tutorial/content.php:57
+msgid "Your translations are underway."
+msgstr "Ваши переводы уже выполняются."
+
+#: admin/tutorial/faq.php:50
+msgid "Groups of strings can be sent for translation and managed using the <a href='%1$s'>String Groups</a> page. Individual strings may be viewed on the <a href='%2$s'>Strings</a> page."
+msgstr "Группы строк можно отправлять на перевод и управлять ими с помощью страницы <a href='%1$s'>Группы строк</a>. Отдельные строки можно просмотреть на странице <a href='%2$s'>Строки</a>."
+
+#: include/group-post.php:52
+msgid "Alternative Text"
+msgstr "Атрибут alt"

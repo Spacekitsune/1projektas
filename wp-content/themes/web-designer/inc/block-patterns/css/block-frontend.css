@@ -1,0 +1,126 @@
+/*banner-section*/
+.banner-section h1, .banner-section p,.service-section h2,.service-section h3,.service-section p{ 
+    font-family: 'Spartan', sans-serif;
+}
+.banner-section{
+    width: auto;
+    height: auto;
+}
+.banner-section1 img{
+    height: auto;
+    max-width: 120%;
+    vertical-align: bottom;
+}
+.banner-section .banner-section2{
+    padding-top: 6em !important;
+    padding: 5px;
+}
+.banner-section .banner-section2 p{
+   padding-top: 10px; 
+}
+.banner-section  .banner-section2 a{
+    display: inline-block;
+    font-size: 13px;
+    font-weight: 600;
+    background: #ff4f6e;
+    padding: 12px 25px 10px;
+    border-radius: 0 30px 0 0;
+}
+.banner-section .banner-section2 p strong{
+    color: #000;
+    margin-bottom: 5px;
+    font-size: 25px;
+    font-weight: 700;
+}
+.banner-section  .banner-section2 a:hover{
+    background-color: #009DAE !important;
+    color: #ffff;
+}
+.banner-section .number-section1 p,.banner-section .number-section2 p,.banner-section .number-section3 p{
+    margin-bottom: 0rem;;
+}
+/*service section*/
+.service-section .service-section2,.service-section .service-section3,.service-section .service-section4{
+    padding: 15px;
+    border-radius: 30px;
+    box-shadow: 0 0 10px #ddd;
+    margin: 20px 10px 10px 10px;
+}
+.service-section h2{
+    color: #222222;
+    font-size: 25px;
+    line-height: 1.5;
+}
+.service-section .service-section2:hover,.service-section .service-section3:hover,.service-section .service-section4:hover{
+    background: #FF4F6E;
+    color:#fff !important;
+}
+.service-section2:hover h3, .service-section3:hover h3, .service-section4:hover h3{
+    color:#fff !important;
+}
+.service-section .service-section2 p,.service-section .service-section3 p,.service-section .service-section4 p{
+    color: #ACACAC;
+    font-weight: 500;
+    font-size: 14px;
+    padding-top: 10px;
+}
+.service-section .service-section2 h3,.service-section .service-section3 h3,.service-section .service-section4 h3{
+    color: #222;
+    font-size: 20px;
+    font-weight: 600;
+    margin-bottom: 10px;
+    line-height: 1.5;
+}
+.service-section .service-section2:hover h2,.service-section .service-section2:hover p,
+.service-section .service-section3:hover h2,.service-section .service-section3:hover p,
+.service-section .service-section4:hover h2,.service-section .service-section4:hover p{
+    color:#fff;
+}
+@media screen and (min-width: 320px) and (max-width: 575px){
+    .banner-section .banner-section2{
+        padding-top:0px !important;
+        text-align: center;
+    }
+    .banner-section .banner-section2 .button1{
+        display: block;
+    }
+    .service-section .service-section1{
+        text-align: center;
+    }
+    .banner-section  .banner-section1 img{
+        max-width: 100%;
+    }
+}
+@media screen and (min-width: 576px) and (max-width: 768px){
+    .banner-section .banner-section2{
+       padding-left: 3em;
+       padding-top: 3em !important;
+    }
+    .banner-section .banner-section2 h1{
+       font-size: 24px;
+    }
+    .banner-section .ratings-section{
+       flex-wrap: nowrap;
+    }
+    .service-section{
+       flex-wrap: nowrap;
+    }
+    .service-section h2{
+       font-size: 23px;
+    }
+    .service-section .service-section2{
+       font-size: 23px;
+    }
+    .service-section .service-section2 h2,.service-section .service-section3 h2,.service-section .service-section4 h2{
+       font-size: 15px !important;
+    }
+    .service-section .service-section2 p,.service-section .service-section3 p,.service-section .service-section4 p{
+       font-size: 12px !important;
+    }
+    .service-section .service-section2{
+       margin-left: 0em !important;
+    }
+    .service-section .service-section3,.service-section .service-section4{
+       margin-top: 10px;
+    }
+}
